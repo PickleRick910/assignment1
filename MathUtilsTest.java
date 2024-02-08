@@ -8,7 +8,7 @@ public class MathUtilsTest {
 
     @Before
     public void setUp() {
-        mu = new MathUtils();
+        mutil = new MathUtils();
     }
 
     @After
